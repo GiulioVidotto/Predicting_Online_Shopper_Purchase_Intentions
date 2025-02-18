@@ -41,6 +41,7 @@ The dataset contains over 12,000 samples and includes both categorical and conti
 
 ## How to Run the Code
 1. Clone the repository.
-2. Open the `predicting_Online_Shopper_Purchase_Intentions.ipynb` file in Jupyter Notebook.
-3. Run all cells to execute the analysis and model building.
-4. Ensure all necessary libraries are installed (`pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`).
+2. Move inside the cloned repository.
+3. Open the `predicting_Online_Shopper_Purchase_Intentions.ipynb` file in Jupyter Notebook.
+4. Run all cells to execute the analysis and model building.
+5. Ensure all necessary libraries are installed (`pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`).
