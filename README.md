@@ -1,6 +1,11 @@
 # Predicting Online Shopper Purchase Intentions
 This project aims to build a machine learning classification model to predict whether or not an online shopper will make a purchase. The dataset used for this project is the **Online Shoppers Purchasing Intention** dataset from the UCI Machine Learning Repository, which includes various features related to online shopper behavior.
 
+This project was done by:
+- **Erika Ballabio** (Email: erikaballabio@yahoo.it)
+- **Isabella Rossi** (Email: Isabellarossi97@gmail.com)
+- **Giulio Vidotto** (Email: vdt.giulio@gmail.com)
+
 ## Project Overview
 
 The project is divided into three main steps:
